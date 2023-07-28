@@ -1,6 +1,7 @@
 # leetcode-rs
 Solutions to LeetCode problems in Rust.
 
-| Problem | Time Complexity | Memory Complexity | Runtime % | Memory % |
+| Problem | Time Complexity | Space Complexity | Runtime % | Memory % |
 |-----|-----|-----|-----|-----|
-| 1768 | O(n) | O(n) | 100% | 34% |
+| 1071 | O(m * n) | O(m + n) | 25% | 16% |
+| 1768 | O(n)   | O(n) | 100% | 34% |
