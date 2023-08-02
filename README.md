@@ -4,6 +4,7 @@ Solutions to LeetCode problems in Rust.
 | Problem | Time Complexity | Space Complexity | Runtime % | Memory % |
 |-----|-----|-----|-----|-----|
 | 238 | O(n) | O(n) | 93%  | 59% |
+| 283 | O(n) | O(1) | 99%  | 90% |
 | 334 | O(n) | O(1) | 96%  | 97% |
 | 345 | O(n) | O(n) | 100%  | 87% |
 | 443 | O(n) | O(1) | 100%  | 61% |
